@@ -20,11 +20,6 @@
 ## API Credit
 All the images and data used in project is taken from 
 https://developers.themoviedb.org/3/getting-started/introduction
-## Demo
-
-Video Demo Here
-
-https://youtu.be/JMEGCJxRwDo
 ## Run Locally
 
 Clone the project
