@@ -69,9 +69,6 @@ cd ..
 cd client
 npm start
 ```
-## Authors
-
-- [@AnuragRoshan](https://github.com/AnuragRoshan)
 
 
 ## Feedback
